@@ -12,13 +12,7 @@ TypeScript Challenges个人解题思路，项目源地址请[点击此处](https
 
 <img src="https://img.shields.io/badge/%E7%83%AD%E8%BA%AB-0-teal" alt="0"/>
 
-<br/>
-
-<a href="./questions/00013-warm-hello-world/README.zh-CN.md" target="_blank">
-  <img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/>
-</a>
-
-<br/>
+<a href="./answers/00013-warm-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a>
 
 <img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-0-7aad0c" alt="0" />
 
