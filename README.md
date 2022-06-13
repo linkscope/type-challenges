@@ -10,7 +10,7 @@ TypeScript Challenges个人解题思路，项目源地址请[点击此处](https
 
 > 目前是已解答题目
 
-<img src="https://img.shields.io/badge/%E7%83%AD%E8%BA%AB-0-teal" alt="0"/>
+<img src="https://img.shields.io/badge/%E7%83%AD%E8%BA%AB-1-teal" alt="1"/>
 
 <a href="./answers/00013-warm-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a>
 
