@@ -14,9 +14,9 @@ TypeScript Challenges个人解题思路，项目源地址请[点击此处](https
 
 <a href="./answers/00013-warm-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a>
 
-<img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-0-7aad0c" alt="0" />
+<img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-1-7aad0c" alt="1" />
 
-<br/>
+<a href="./answers/00004-easy-pick/README.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBEasy%20Pick-7aad0c" alt="4・Easy Pick"/></a>
 
 <img src="https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-0-cd8c27" alt="0" />
 
