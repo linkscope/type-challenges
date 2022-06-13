@@ -14,9 +14,9 @@ TypeScript Challenges个人解题思路，项目源地址请[点击此处](https
 
 <a href="./answers/00013-warm-hello-world/README.md" target="_blank"><img src="https://img.shields.io/badge/-13%E3%83%BBHello%20World-teal" alt="13・Hello World"/></a>
 
-<img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-3-7aad0c" alt="3" />
+<img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-4-7aad0c" alt="4" />
 
-<a href="./answers/00004-easy-pick/README.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBEasy%20Pick-7aad0c" alt="4・Easy Pick"/></a> <a href="./answers/00007-easy-readonly/README.md" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBEasy%20Readonly-7aad0c" alt="7・Easy Readonly"/></a> <a href="./answers/00011-tuple-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-11%E3%83%BBTuple%20To%20Object-7aad0c" alt="11・Tuple To Object"/></a>
+<a href="./answers/00004-easy-pick/README.md" target="_blank"><img src="https://img.shields.io/badge/-4%E3%83%BBEasy%20Pick-7aad0c" alt="4・Easy Pick"/></a> <a href="./answers/00007-easy-readonly/README.md" target="_blank"><img src="https://img.shields.io/badge/-7%E3%83%BBEasy%20Readonly-7aad0c" alt="7・Easy Readonly"/></a> <a href="./answers/00011-tuple-to-object/README.md" target="_blank"><img src="https://img.shields.io/badge/-11%E3%83%BBTuple%20To%20Object-7aad0c" alt="11・Tuple To Object"/></a> <a href="./answers/00014-easy-first/README.md" target="_blank"><img src="https://img.shields.io/badge/-14%E3%83%BBEasy%20First-7aad0c" alt="14・Easy First"/></a>
 
 <img src="https://img.shields.io/badge/%E4%B8%AD%E7%AD%89-0-cd8c27" alt="0" />
 
