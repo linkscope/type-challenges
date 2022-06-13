@@ -1,0 +1,10 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "private": true,
+  "packageManager": "pnpm@6.32.3",
+  "license": "MIT",
+  "author": "Linkscope <linkscope@foxmail.com>",
+  "repositry": "https://github.com/linkscope/type-challenges.git",
+  "description": "type-challenges解题笔记"
+}
