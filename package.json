@@ -6,5 +6,23 @@
   "license": "MIT",
   "author": "Linkscope <linkscope@foxmail.com>",
   "repositry": "https://github.com/linkscope/type-challenges.git",
-  "description": "type-challenges解题笔记"
+  "description": "type-challenges解题笔记",
+  "devDependencies": {
+    "@antfu/eslint-config": "^0.25.1",
+    "eslint": "^8.17.0"
+  },
+  "eslintConfig": {
+    "extends": "@antfu/eslint-config-ts",
+    "rules": {
+      "import/first": "off",
+      "no-unused-vars": "off",
+      "@typescript-eslint/no-unused-vars": "off",
+      "@typescript-eslint/ban-ts-comment": "off",
+      "no-use-before-define": "off",
+      "no-unused-expressions": "off",
+      "prefer-const": "off",
+      "no-alert": "off",
+      "@typescript-eslint/consistent-type-definitions": "off"
+    }
+  }
 }
